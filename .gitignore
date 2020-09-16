@@ -16,6 +16,7 @@ papers/*
 resources/*
 output/*
 pdfs/*
+exclude/*
 
 
 # Subfolders Unique to Project
