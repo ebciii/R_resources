@@ -1,4 +1,6 @@
-plugins:
+title: R Resources
+description: Compendium of Web Resources for Learning R
+Loadplugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
