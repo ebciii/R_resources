@@ -152,4 +152,6 @@ Packages
 - [Facebook Data Geeks Using ggplot2 stat_smooth](https://www.theatlantic.com/technology/archive/2014/02/when-you-fall-in-love-this-is-what-facebook-sees/283865/)
 - [Looking at Prices in the ACA Exchanges, including link to code on Github](http://www.paulmichaelcohen.com/competition-and-price-on-the-federal-health-exchange-marketplace/)
 
+<!--
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+--> 
