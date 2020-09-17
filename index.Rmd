@@ -7,8 +7,6 @@ output:
     keep_md: true
 ---
 
-## Compendium of Web Resources for Learning R
-
 ### Overall Resources  
 
 - [R for Data Science](https://r4ds.had.co.nz/)  
